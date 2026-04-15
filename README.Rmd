@@ -4,6 +4,6 @@ output: html_document
 ---
 
 This project is for the university course Reproducible Analysis of Biological Data.
-The data has been received from Diogo Paulo, CCMAR in Faro, Portugal.
-The dataset contains data on the length, width, and area of different Gorgonian species in different sites with different protection levels. Other parameters giving estimates of Gorgonian condition/ health have also been measured.
+The data has been collected in the Luiz Saldanha Marine Park in Portugal.
+The dataset contains information on the length, width, and area of different Gorgonian species in different sites with different protection levels. Other parameters giving estimates of Gorgonian condition/ health have also been measured.
 This data has been collected in order to compare the impact of the establishment of Marine Protected Areas, as well as comparing the effect of different protection levels on Gorgonian condition.
